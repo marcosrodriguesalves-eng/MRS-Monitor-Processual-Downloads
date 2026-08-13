@@ -16,9 +16,9 @@ Aplicativo Windows da **MRS Sistemas** para acompanhamento online de processos j
 
 ## Download
 
-A versão mais recente estará disponível na área **Releases** deste repositório.
-
-Para instalar, baixe **MRS_Monitor_Processual_1.0.0.exe**. O manual em PDF também será disponibilizado junto da versão.
+- [Baixar o instalador para Windows](https://github.com/marcosrodriguesalves-eng/MRS-Monitor-Processual-Downloads/releases/download/v1.0.0.1/Instalador.exe)
+- [Baixar o manual em PDF](https://github.com/marcosrodriguesalves-eng/MRS-Monitor-Processual-Downloads/releases/download/v1.0.0.1/Manual_MRS_Monitor_Processual_Online.pdf)
+- [Ver a página da versão 1.0.0](https://github.com/marcosrodriguesalves-eng/MRS-Monitor-Processual-Downloads/releases/tag/v1.0.0.1)
 
 ## Requisitos
 
@@ -30,10 +30,16 @@ Esta edição utiliza banco de dados SQLite local e **não necessita do Firebird
 
 ## Instalação
 
-1. Baixe **MRS_Monitor_Processual_1.0.0.exe** em **Releases**.
+1. Baixe **Instalador.exe** pelo link acima.
 2. Execute o instalador no Windows.
 3. Siga as etapas exibidas na tela.
 4. Consulte o manual PDF disponibilizado junto do instalador.
+
+## Verificação do instalador
+
+SHA-256:
+
+`f1cc629e36b9bf42f24298b12ae63528369bdededb509c0adb529a4e1bd2187c`
 
 ## Observações importantes
 
