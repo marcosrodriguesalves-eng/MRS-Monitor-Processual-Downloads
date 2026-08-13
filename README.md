@@ -1,5 +1,7 @@
 # MRS Monitor Processual
 
+![MRS Monitor Processual](MRS_Monitor_Processual_GitHub_1280x640.png)
+
 Aplicativo Windows da **MRS Sistemas** para acompanhamento online de processos judiciais pelo número CNJ.
 
 ## Principais recursos
@@ -38,3 +40,8 @@ Esta edição utiliza banco de dados SQLite local e **não necessita do Firebird
 As consultas dependem da disponibilidade e das regras dos serviços públicos dos tribunais. Processos sigilosos, consultas protegidas por CAPTCHA ou dados não disponibilizados publicamente podem exigir conferência manual no portal oficial.
 
 O sistema é uma ferramenta de apoio. Prazos, audiências e movimentações devem ser confirmados pelo profissional responsável nos canais oficiais do Poder Judiciário.
+
+## Suporte comercial
+
+**MRS Sistemas**  
+WhatsApp: **(34) 99671-8828**
